@@ -7,4 +7,5 @@ file:///C:/Users/crown/Documents/project/weekly_project/my_map.html
 file:///C:/Users/crown/Documents/project/weekly_project/my_plot.html
 
 ![image](https://github.com/user-attachments/assets/9fb1a3f6-ab4a-4183-a6cd-4a342bc478fb)
+
 ![image](https://github.com/user-attachments/assets/ddbc5882-c4c8-4b18-bfa2-3d07a9f19bee)
