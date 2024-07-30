@@ -6,7 +6,6 @@
 file:///C:/Users/crown/Documents/project/weekly_project/my_map.html
 file:///C:/Users/crown/Documents/project/weekly_project/my_plot.html
 
-![newplot](https://github.com/user-attachments/assets/2170504d-d59c-4d69-83cd-57ceb7cc2740)
-
-
 ![newplot (1)](https://github.com/user-attachments/assets/d79efd16-449d-486c-b451-b95f049d80e4)
+
+![newplot](https://github.com/user-attachments/assets/2170504d-d59c-4d69-83cd-57ceb7cc2740)
