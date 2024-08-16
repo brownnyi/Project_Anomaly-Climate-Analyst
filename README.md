@@ -3,9 +3,9 @@
 
 시각화 자료 Html 주소
 
-file:///C:/Users/crown/Documents/project/weekly_project/my_map.html
-
 file:///C:/Users/crown/Documents/project/weekly_project/my_plot.html
+
+file:///C:/Users/crown/Documents/project/weekly_project/my_map.html
 
 시각화 자료 예시
 
